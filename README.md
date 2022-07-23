@@ -1,4 +1,4 @@
-# Paint-app
+# Drawer-app
 #### You can draw circle, line, ellipse
 #### You can fill the shapes
 #### You can clip a line
